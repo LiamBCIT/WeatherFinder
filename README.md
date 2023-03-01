@@ -9,6 +9,8 @@ CSS
 
 JavaScript
 
+Axios
+
 Material UI
 
 Create React App
