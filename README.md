@@ -1,5 +1,5 @@
 # WeatherFinder
-A simple responsive weather app utilizing OpenWeatherMap API and Material UI
+A simple responsive weather app utilizing OpenWeatherMap API, Axios and Material UI
 
 # Tech Stack
 
